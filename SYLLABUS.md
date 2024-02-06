@@ -8,13 +8,19 @@ This course is offered on an In-Person Only basis. In-person attendance is requi
 
 This is a 2-credit elective course for Computer Science majors.
 
-> This is version 1.0 of the syllabus. Any changes will be announced in class and posted in this repository as well as on D2L.
+> This is version **1.1** of the syllabus. Any changes will be announced in class and posted in this repository as well as on D2L.
+
+> Changes:
+>
+> **v1.1**:
+> * Updated the class location
+> * Removed quizzes from the grading chart. The class will have no formal quizzes, only projects.
 
 ## Class Time and Place
 
 - **Semester/Block**: Spring 2024, Block 1 (1/8/2023 through 3/1/2023), 16 class sessions
 - **Days and Time**: Tuesdays and Thursdays, 4:00 PM - 5:50 PM ([iCalendar File](https://github.com/fmillion-mnsu/cs470-s24/raw/master/cs470.ics))
-- **Location:** WH 284 ([Building Map](https://www.mnsu.edu/globalassets/maps/university/buildings/2021/wh_02_secondfloor_2021.pdf))
+- **Location:** AH 213 ([Building Map](https://www.mnsu.edu/globalassets/maps/university/buildings/armstrong-hall-second-floor.pdf))
 
 ## Instructor
 
@@ -61,11 +67,10 @@ Your final grade for this course will be based on the following assessments and 
 Item | Percent
 ---- | --------
 Attendance | 5%
-Individual Activities | 25%
+Individual Activities | 35%
 Group Activities | 60%
-Quizzes | 10%
 
-There will be no final exam for this course. The work you do in your group assignments will be ongoing throughout the semester. Your final grade will be calculated based on the above categories.
+There will be no quizzes or final exam for this course. The work you do in your individual and group assignments will be ongoing throughout the semester. Your final grade will be calculated based on the above categories.
 
 This course will use shaded grading. The following is the minimum score for each grade:
 
